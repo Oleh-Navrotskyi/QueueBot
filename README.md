@@ -18,7 +18,7 @@ Telegram-бот для керування електронною чергою н
 - **Мова:** Java (24)
 - **Бібліотека:** [TelegramBots API](https://github.com/rubenlagus/TelegramBots)
 - **Зберігання даних:** Java Object Serialization (File I/O)
-- **Збірка проекту:** Maven / Gradle
+- **Збірка проекту:** Maven
 
 ## 📱 Команди бота (Меню)
 /reg [Прізвище] — встати в чергу.
